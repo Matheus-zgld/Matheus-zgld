@@ -14,5 +14,5 @@
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Contact E-mail: tetorique@gmail.com
-
+Contact E-mail: tetorique@gmail.com </br>
+![3dc41a04632d57800c3a57f63ec24fc7](https://github.com/ZetzGold/ZetzGold/assets/157061694/1ad58bb5-17ca-40fa-8349-b8970b9fdbc2)
