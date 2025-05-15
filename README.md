@@ -1,3 +1,5 @@
+<img src="https://github.com/Matheus-zgld/Matheus-zgld/assets/mainGif.gif" width="100%" />
+
 # 🎴💠 Lost in Paradox 💠🎴
 ## SOCIAL MEDIA 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.zgld/)
