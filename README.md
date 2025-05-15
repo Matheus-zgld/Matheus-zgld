@@ -14,3 +14,6 @@
 
 Contact E-mail: tetorique@gmail.com </br>
 ![3dc41a04632d57800c3a57f63ec24fc7](https://github.com/ZetzGold/ZetzGold/assets/157061694/1ad58bb5-17ca-40fa-8349-b8970b9fdbc2)
+
+
+![Matheus-zgld's Stats](https://github-readme-stats.vercel.app/api?username=Matheus-zgld&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
