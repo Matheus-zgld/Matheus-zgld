@@ -14,7 +14,7 @@
 ![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-zgld&theme=tokyonight)
 
 
 ## CONTATC
