@@ -43,12 +43,13 @@
 </p>
 
 <h2 align="center">CONTACT</h2>
-
 <p align="center">
-  <a href="https://www.w3.org/Style/CSS/">
+  <a href="https://www.linkedin.com/in/matheus-camargo-37365b341">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
   </a>
-  E-mail: tetorique@gmail.com 
+  <a href="mailto:tetorique@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 <h2 align="center">GITHUB STATS</h2>
