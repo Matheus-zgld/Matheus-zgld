@@ -42,13 +42,16 @@
   </a>
 </p>
 
-## CONTACT
-Contact E-mail: tetorique@gmail.com </br>
+<h2 align="center">CONTACT</h2>
 
-## STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-zgld&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Matheus-zgld's Stats" height="250px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-zgld&theme=tokyonight" alt="Top Langs" height="250px">
+  E-mail: tetorique@gmail.com 
+</p>
+
+<h2 align="center">GITHUB STATS</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-zgld&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Matheus-zgld's Stats" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-zgld&theme=tokyonight" alt="Top Langs" height="200px">
 </p>
 
 
