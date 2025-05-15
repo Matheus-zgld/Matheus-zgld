@@ -1,4 +1,4 @@
-### 🎴💠 Lost in Paradox 💠🎴
+# 🎴💠 Lost in Paradox 💠🎴
 ## SOCIAL MEDIA 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.zgld/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zgld_)
