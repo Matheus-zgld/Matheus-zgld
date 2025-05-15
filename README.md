@@ -1,4 +1,4 @@
-<img src="https://github.com/Matheus-zgld/Matheus-zgld/assets/mainGif.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/Matheus-zgld/Matheus-zgld/refs/heads/main/assets/mainGif.gif" width="100%" />
 
 # 🎴💠 Lost in Paradox 💠🎴
 ## SOCIAL MEDIA 
