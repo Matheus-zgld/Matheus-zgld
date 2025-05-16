@@ -49,6 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-zgld&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Matheus-zgld's Stats" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-zgld&theme=tokyonight&layout=compact" alt="Top Langs" height="180px">
+  <img src="https://streak-stats.demolab.com/?user=Matheus-zgld&theme=tokyonight" alt="Top Langs" height="180px">
 </p>
 
 
