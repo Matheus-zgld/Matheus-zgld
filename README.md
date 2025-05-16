@@ -14,6 +14,9 @@
   <a href="https://www.twitch.tv/zetz_gld">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
   </a>
+  <a href="https://www.linkedin.com/in/matheus-camargo-37365b341">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
+  </a>
 </p>
 
 <h2 align="center">SKILLS</h2>
@@ -44,9 +47,7 @@
 
 <h2 align="center">CONTACT</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-camargo-37365b341">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN">
-  </a>
+
   <a href="mailto:tetorique@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -54,8 +55,8 @@
 
 <h2 align="center">GITHUB STATS</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-zgld&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Matheus-zgld's Stats" height="250px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-zgld&theme=tokyonight&layout=compact" alt="Top Langs" height="250px">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-zgld&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Matheus-zgld's Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-zgld&theme=tokyonight&layout=compact" alt="Top Langs" height="180px">
 </p>
 
 
