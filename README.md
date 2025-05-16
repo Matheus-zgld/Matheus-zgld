@@ -2,8 +2,9 @@
 
 <h3 align="center">🎴💠 Lost in Paradox 💠🎴</h3>
 
-<h2 align="center">SOCIAL MEDIA</h2>
+<br>
 
+<h2 align="center">SOCIAL MEDIA</h2>
 <p align="center">
   <a href="https://www.instagram.com/matheus.zgld/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -19,8 +20,9 @@
   </a>
 </p>
 
-<h2 align="center">SKILLS</h2>
+<br>
 
+<h2 align="center">SKILLS</h2>
 <p align="center">
   <a href="https://www.w3.org/html/">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -44,6 +46,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
 </p>
+
+<br>
 
 <h2 align="center">GITHUB STATS</h2>
 <p align="center">
