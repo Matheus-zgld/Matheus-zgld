@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Matheus-zgld/Matheus-zgld/refs/heads/main/assets/mainGif.gif" width="100%" />
 
-<h4 align="center">🎴💠 Lost in Paradox 💠🎴</h4>
+<h3 align="center">🎴💠 Lost in Paradox 💠🎴</h3>
 
 <h2 align="center">SOCIAL MEDIA</h2>
 
