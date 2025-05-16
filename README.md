@@ -45,14 +45,6 @@
   </a>
 </p>
 
-<h2 align="center">CONTACT</h2>
-<p align="center">
-
-  <a href="mailto:tetorique@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
 <h2 align="center">GITHUB STATS</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-zgld&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Matheus-zgld's Stats" height="180px">
