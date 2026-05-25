@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Matheus-zgld/Matheus-zgld/refs/heads/main/assets/mainPhoto.png" width="100%" />
+<img src="https://raw.githubusercontent.com/Matheus-zgld/Matheus-zgld/refs/heads/main/assets/mainPhoto.png" width="100%"/>
 
 <h3 align="center">🎴💠 Lost in Paradox 💠🎴</h3>
 
